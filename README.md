@@ -1,1 +1,0 @@
-# hiroku-template
