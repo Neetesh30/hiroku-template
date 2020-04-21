@@ -1,0 +1,136 @@
+Uri: https://useplink.com/en/
+File Name: c:\Downloaded Web Sites\useplink.com\en\index.htm
+Content Type: text/html
+
+Uri: https://useplink.com/assets/images/frontpage/favicon/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/images/frontpage/favicon/favicon-64x64.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\favicon\favicon-64x64.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/images/frontpage/favicon/favicon-180x180.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\favicon\favicon-180x180.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/frontpage.css
+File Name: c:\Downloaded Web Sites\useplink.com\assets\frontpage.css
+Content Type: text/css
+
+Uri: https://useplink.com/nl/
+File Name: c:\Downloaded Web Sites\useplink.com\nl\index.htm
+Content Type: text/html
+
+Uri: https://useplink.com/de/
+File Name: c:\Downloaded Web Sites\useplink.com\de\index.htm
+Content Type: text/html
+
+Uri: https://useplink.com/fr/
+File Name: c:\Downloaded Web Sites\useplink.com\fr\index.htm
+Content Type: text/html
+
+Uri: https://useplink.com/en/faq
+File Name: c:\Downloaded Web Sites\useplink.com\en\faq.html
+Content Type: text/html
+
+Uri: https://useplink.com/assets/images/frontpage/intro.webm
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\intro.webm
+Content Type: video/webm
+
+Uri: https://useplink.com/assets/images/frontpage/intro.mp4
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\intro.mp4
+Content Type: video/mp4
+
+Uri: https://useplink.com/assets/images/frontpage/loop.webm
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\loop.webm
+Content Type: video/webm
+
+Uri: https://useplink.com/assets/images/frontpage/loop.mp4
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\loop.mp4
+Content Type: video/mp4
+
+Uri: https://useplink.com/assets/images/frontpage/coin_3.webm
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\coin_3.webm
+Content Type: video/webm
+
+Uri: https://useplink.com/assets/images/frontpage/coin_3.mp4
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\coin_3.mp4
+Content Type: video/mp4
+
+Uri: https://useplink.com/assets/images/frontpage/coin_2.mp4
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\coin_2.mp4
+Content Type: video/mp4
+
+Uri: https://useplink.com/assets/images/frontpage/coin_1.webm
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\coin_1.webm
+Content Type: video/webm
+
+Uri: https://useplink.com/assets/images/frontpage/coin_1.mp4
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\coin_1.mp4
+Content Type: video/mp4
+
+Uri: https://useplink.com/assets/images/frontpage/payment-methods_copy_2_2x.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\payment-methods_copy_2_2x.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/js/vendor.js
+File Name: c:\Downloaded Web Sites\useplink.com\assets\js\vendor.js
+Content Type: application/javascript
+
+Uri: https://useplink.com/assets/js/main.js
+File Name: c:\Downloaded Web Sites\useplink.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://useplink.com/assets/images/frontpage/payment-methods_copy_2_2x-320x0-c-default.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\payment-methods_copy_2_2x-320x0-c-default.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/images/frontpage/payment-methods_copy_2_2x-640x0-c-default.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\payment-methods_copy_2_2x-640x0-c-default.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/images/frontpage/payment-methods_copy_2_2x-1024x0-c-default.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\payment-methods_copy_2_2x-1024x0-c-default.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/images/frontpage/payment-methods_copy_2_2x-1280x0-c-default.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\payment-methods_copy_2_2x-1280x0-c-default.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/images/frontpage/payment-methods_copy_2_2x-1440x0-c-default.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\payment-methods_copy_2_2x-1440x0-c-default.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/images/frontpage/payment-methods_copy_2_2x-1920x0-c-default.png
+File Name: c:\Downloaded Web Sites\useplink.com\assets\images\frontpage\payment-methods_copy_2_2x-1920x0-c-default.png
+Content Type: image/png
+
+Uri: https://useplink.com/assets/fonts/CircularPro-Book.fcea822f.woff2
+File Name: c:\Downloaded Web Sites\useplink.com\assets\fonts\CircularPro-Book.fcea822f.bin
+Content Type: application/octet-stream
+
+Uri: https://useplink.com/assets/fonts/CircularPro-Book.588eb6b1.woff
+File Name: c:\Downloaded Web Sites\useplink.com\assets\fonts\CircularPro-Book.588eb6b1.woff
+Content Type: application/font-woff
+
+Uri: https://useplink.com/assets/fonts/CircularPro-Medium.6d9ac4df.woff2
+File Name: c:\Downloaded Web Sites\useplink.com\assets\fonts\CircularPro-Medium.6d9ac4df.bin
+Content Type: application/octet-stream
+
+Uri: https://useplink.com/assets/fonts/CircularPro-Medium.03178f59.woff
+File Name: c:\Downloaded Web Sites\useplink.com\assets\fonts\CircularPro-Medium.03178f59.woff
+Content Type: application/font-woff
+
+Uri: https://useplink.com/nl/faq
+File Name: c:\Downloaded Web Sites\useplink.com\nl\faq.html
+Content Type: text/html
+
+Uri: https://useplink.com/de/faq
+File Name: c:\Downloaded Web Sites\useplink.com\de\faq.html
+Content Type: text/html
+
+Uri: https://useplink.com/fr/faq
+File Name: c:\Downloaded Web Sites\useplink.com\fr\faq.html
+Content Type: text/html
+
