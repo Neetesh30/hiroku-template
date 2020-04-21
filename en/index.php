@@ -38,12 +38,10 @@
     <meta name='robots' content='index,follow'>
 
     <link rel='stylesheet' id='stylesheet-css' href='..\assets\frontpage.css' type='text/css' media='all'>
-    <link rel="canonical" href="index.htm">
-    <link rel='shortlink' href='index.htm'>
+    <link rel="canonical" href="index.php">
+    <link rel='shortlink' href='index.php'>
 
-                                    <link rel="alternate" href="..\nl\index.htm" hreflang="nl">
-                                <link rel="alternate" href="..\de\index.htm" hreflang="de">
-                                <link rel="alternate" href="..\fr\index.htm" hreflang="fr">
+                                
             </head>
 
     <body class="en-EN">
@@ -52,7 +50,7 @@
         </div>
 
         <header class="header">
-    <a class="logo" name="Home" href="index.htm">
+    <a class="logo" name="Home" href="index.php">
         <span>Home</span>
         <svg viewbox="0 0 57 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M4.09999 23.15V17.2C4.69999 18.025 5.94999 18.7 7.64999 18.7C11.125 18.7 13.45 15.95 13.45 12.225C13.45 8.575 11.375 5.825 7.77499 5.825C5.92499 5.825 4.54999 6.65 3.99999 7.6V6.1H0.774994V23.15H4.09999ZM10.175 12.25C10.175 14.45 8.82499 15.725 7.12499 15.725C5.42499 15.725 4.04999 14.425 4.04999 12.25C4.04999 10.075 5.42499 8.8 7.12499 8.8C8.82499 8.8 10.175 10.075 10.175 12.25Z"></path>
@@ -243,23 +241,7 @@
                     </span>
                 </div>
                 <div class="lang-select-list">
-                    <ul>
-                                                                                                                                        <li id="nl">
-                                    <a name="Nederlands" href="..\nl\index.htm" target="_self">
-                                        Nederlands
-                                    </a>
-                                </li>
-                                                                                                                <li id="de">
-                                    <a name="Deutsch" href="..\de\index.htm" target="_self">
-                                        Deutsch
-                                    </a>
-                                </li>
-                                                                                                                <li id="fr">
-                                    <a name="français" href="..\fr\index.htm" target="_self">
-                                        français
-                                    </a>
-                                </li>
-                                                                        </ul>
+                    
                 </div>
             </div>
         </nav>
@@ -272,13 +254,4 @@
 
     <script type='text/javascript' src='..\assets\js\vendor.js'></script>
     <script type='text/javascript' src='..\assets\js\main.js'></script>
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-8558488-10', 'auto');
-        ga('send', 'pageview');
-    </script>
 </html>
