@@ -26,7 +26,7 @@ define( 'DB_NAME', 'cBqK9FoZ5l' );
 define( 'DB_USER', 'cBqK9FoZ5l' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '7qM3huweqN' );
+define( 'DB_PASSWORD', '7qM3huweddqN' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'remotemysql.com' );
