@@ -26,10 +26,10 @@ define( 'DB_NAME', 'cBqK9FoZ5l' );
 define( 'DB_USER', 'cBqK9FoZ5l' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '7qM3huweddqN' );
+define( 'DB_PASSWORD', '7qM3huweqN' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'remotemysql.com' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
